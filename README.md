@@ -60,6 +60,16 @@ In this paper, we present:
 **(1) ArtiMuse**, an innovative MLLM-based IAA model with Joint Scoring and Expert-Level Understanding capabilities;  
 **(2) ArtiMuse-10K**, the first expert-curated image aesthetic dataset comprising 10,000 images spanning 5 main categories and 15 subcategories, each annotated by professional experts with 8-dimensional attributes analysis and a holistic score.  
 
+## 💾 Dataset Access
+
+The **ArtiMuse-10K** dataset is available for academic research. By requesting access, you agree to the following **Terms of Use**:
+
+* **Non-commercial**: Research use only. Commercial use is prohibited.
+* **No Redistribution**: Do not share or distribute the dataset to any third party.
+* **Attribution**: Properly cite or credit **ArtiMuse** in any resulting work.
+
+To request the download link, please fill out the following application form: [**ArtiMuse-10K Access Request Form**](https://forms.gle/SGn5osMkxdKQArhq8)
+
 
 ## 📦 Checkpoints
 
