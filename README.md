@@ -1,5 +1,5 @@
 <h1 style="line-height: 1.4;">
-  <span style="color: #FF3E3E;">[CVPR 2026]A</span><span style="color: #FF914D;">r</span><span 
+  <span style="color: #FF3E3E;">[CVPR 2026] A</span><span style="color: #FF914D;">r</span><span 
   style="color: #FFC94D;">t</span><span style="color: #B6E24D;">i</span><span
   style="color: #4DDC95;">M</span><span style="color: #4DB8FF;">u</span><span
   style="color: #8564FF;">s</span><span style="color: #C74DFF;">e</span>:
