@@ -1,5 +1,5 @@
 <h1 style="line-height: 1.4;">
-  <span style="color: #FF3E3E;">A</span><span style="color: #FF914D;">r</span><span 
+  <span style="color: #FF3E3E;">[CVPR 2026]A</span><span style="color: #FF914D;">r</span><span 
   style="color: #FFC94D;">t</span><span style="color: #B6E24D;">i</span><span
   style="color: #4DDC95;">M</span><span style="color: #4DB8FF;">u</span><span
   style="color: #8564FF;">s</span><span style="color: #C74DFF;">e</span>:
@@ -59,6 +59,9 @@ University of Science and Technology of China, Shanghai AI Laboratory, China Aca
 
 
 ## 📰 News & Updates
+
+- 🚀 **Feb 21, 2026**
+  🎉 ArtiMuse has been officially accepted by **CVPR 2026**!
 
 - 🚀 **Dec 29, 2025**
   🔥 Building upon on **ArtiMuse**, we introduce **UniPercept**, a comprehensive follow-up work that provides a meticulous study on **perceptual-level image understanding**. It spans **Image Aesthetics Assessment (IAA)**, **Image Quality Assessment (IQA)**, and **Image Structure & Texture Assessment (ISTA)** across both **Visual Rating (VR)** and **Visual Question Answering (VQA)** tasks. 
