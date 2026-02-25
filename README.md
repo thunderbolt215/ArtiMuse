@@ -34,6 +34,9 @@
 > <img alt="Website" src="https://img.shields.io/badge/🌎_Website-UniPercept-blue" height="22" />
 >
 > </a>
+> <a href="https://github.com/thunderbolt215/UniPercept" target="_blank">
+>     <img alt="Code" src="https://img.shields.io/badge/GitHub-UniPercept-181717?logo=github&logoColor=white" height="25" />
+> </a>
 >
 > <a href="https://huggingface.co/Thunderbolt215215/UniPercept" target="_blank">
 >
